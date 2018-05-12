@@ -1,0 +1,42 @@
+_repo: Syndicalism-in-France_41068
+_version: 0.1.0
+alternative_title: The labor movement in France
+contributor:
+  author_of_introduction:
+    agent_name: Giddings, Franklin Henry
+    alias: Gidings, F. H.
+    birthdate: 1855
+    deathdate: 1931
+    gutenberg_agent_id: '40962'
+    url: http://www.gutenberg.org/2009/agents/40962
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lorwin, Lewis L. (Lewis Levitzki)
+    aliases:
+    - Levitzki, Louis
+    - Lorwin, Lewis Levitzki
+    - Levine, Louis
+    birthdate: 1883
+    deathdate: 1970
+    gutenberg_agent_id: '40961'
+    url: http://www.gutenberg.org/2009/agents/40961
+description: ''
+gutenberg_issued: '2012-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41068'
+  lccn: '76127443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Syndicalism -- France'
+- !lcsh 'Labor unions -- France -- History'
+- !lcc 'HD'
+- !lcc 'HC'
+title: Syndicalism in France
+url: http://www.gutenberg.org/ebooks/41068
